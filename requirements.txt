@@ -6,4 +6,3 @@ PyJWT
 numpy
 SQLAlchemy
 flask-sqlalchemy
-alembic
