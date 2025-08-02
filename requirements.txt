@@ -1,0 +1,10 @@
+joblib
+scikit-learn
+ipykernel
+
+Flask
+PyJWT
+numpy
+SQLAlchemy
+flask-sqlalchemy
+alembic
